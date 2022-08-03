@@ -8,7 +8,6 @@
 # last_name = name[4:8]
 # funkey_name = name[0:8:2]
 
-
 # print(first_name)
 # print(last_name)
 # print(funkey_name)
@@ -19,4 +18,4 @@ webstie2 = "http://wikipedia.com"
 slice = slice(10,-4)
 
 print(website1[slice])
-print(webstie2[slice] )
+print(webstie2[slice])
