@@ -1,5 +1,6 @@
 import os
 import shutil
+#영상 참고 https://youtu.be/XKHEtdqhLK8?list=RDCMUC4SVo0Ue36XCfOyb5Lh1viQ&t=10880
 
 path = "emptyfolder"
 

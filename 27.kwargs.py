@@ -10,3 +10,5 @@ def hello(**kwargs):
         print(value, end = ' ')
     
 hello(title = 'Mr.', first="Bro",middle="Dude",last="Code")
+
+# 해당 영상 참고 https://youtu.be/XKHEtdqhLK8?list=RDCMUC4SVo0Ue36XCfOyb5Lh1viQ&t=8218
